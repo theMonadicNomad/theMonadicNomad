@@ -17,7 +17,4 @@
 - 💬 Ask me about Student life in Sweden.
 - 📫 How to reach me:  { 'hello@nagacharan.me', '+46-704-648-358' }
 
-
-Cheers,
-NagaCharaN **
-[nagacharan.me](https://nagacharan.me/)
+NagaCharaN
