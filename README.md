@@ -1,22 +1,23 @@
-### Hi there 👋
+### Hello World 👋
 
-- 🌱 I’m currently learning CI/CD Concepts.
-- 👯 I’m looking to collaborate on open source projects.
-- 🤔 I’m looking for help with my personal website.
+
+<a href="https://linkedin.com/in/nagacharan">
+  <img align="left" alt="NagaCharan Meda Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+</a>
+
+<a href="https://twitter.com/m_nagacharan">
+  <img align="left" alt="NagaCharan Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+</a>
+<br />
+<br />
+
+
+- 🌱 I’m currently learning CI/CD Concepts..
+- 🤔 I’m looking for opportunities in .NET/MERN Full Stack 
 - 💬 Ask me about Student life in Sweden.
 - 📫 How to reach me:  { 'hello@nagacharan.me', '+46-704-648-358' }
 
-<!--
-**m-nagacharan/m-nagacharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cheers,
+NagaCharaN **
+[nagacharan.me](https://nagacharan.me/)
