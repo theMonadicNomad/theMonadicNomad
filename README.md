@@ -12,7 +12,7 @@
 <br />
 
 
-- 🌱 I’m currently learning CI/CD Concepts..
+- 🌱 I’m currently learning GatsbyJS
 - 🤔 I’m looking for opportunities in .NET/MERN Full Stack 
 - 💬 Ask me about Student life in Sweden.
 - 📫 How to reach me:  { 'hello@nagacharan.me', '+46-704-648-358' }
