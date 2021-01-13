@@ -13,7 +13,7 @@
 
 
 - 🌱 I’m currently working on Functional Programming
-- 🤔 I’m looking for opportunities in .NET/MERN Full Stack 
+- 🤔 I’m looking for opportunities in Haskell, .NET/MERN Full Stack 
 - 💬 Ask me about Student life in Sweden.
 - 📫 How to reach me:  { 'hello@nagacharan.me', '+46-704-648-358' }
 
