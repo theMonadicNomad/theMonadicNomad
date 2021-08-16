@@ -12,7 +12,7 @@
 <br />
 
 
-- 🌱 I’m currently working on Functional Programming
+- 🌱 I’m currently working on my Masters Thesis
 - 🤔 I’m looking for opportunities in Haskell, .NET/MERN Full Stack 
 - 💬 Ask me about Student life in Sweden.
 - 📫 How to reach me:  { 'hello@nagacharan.me', '+46-704-648-358' }
