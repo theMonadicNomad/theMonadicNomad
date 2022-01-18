@@ -12,8 +12,7 @@
 <br />
 
 
-- 🌱 I’m currently working on my Masters Thesis
-- 🤔 I’m looking for opportunities in Haskell, C++, .NET/MERN Full Stack 
+- 🌱 I’m currently working for Etteplan.
 - 💬 Ask me about Student life in Sweden.
 - 📫 How to reach me:  { 'hello@nagacharan.me', '+46-704-648-358' }
 
