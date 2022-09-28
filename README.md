@@ -14,6 +14,6 @@
 
 - 🌱 I’m currently working for Etteplan.
 - 💬 Ask me about Student life in Sweden.
-- 📫 How to reach me:  { 'hello@nagacharan.me', '+46-704-648-358' }
+- 📫 How to reach me:  { 'hello@nagacharan.me' }
 
 NagaCharaN
