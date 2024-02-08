@@ -12,7 +12,7 @@
 <br />
 
 
-- 🌱 I’m currently working for Etteplan.
+- 🌱 I’m currently working for Consat Engineering.
 - 💬 Ask me about Student life in Sweden.
 - 📫 How to reach me:  { 'hello@nagacharan.me' }
 
